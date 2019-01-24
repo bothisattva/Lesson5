@@ -19,6 +19,8 @@ public class woker {
 
         
     }
+
+
     public  void EmployeeInformation(){
         System.out.println( FollName + Post + Mail + phone + salary +  ege);
     }
